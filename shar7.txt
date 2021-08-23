@@ -1,0 +1,11 @@
+ravel 3shan bt7wl 2 d array l 1 d aray wara b3d
+
+axis 0 btakhod b el 3ard 
+
+el matrix ely tal3a bt3t l n grams 
+3dd el row howa 3dd el gomal aw el documents 
+w el coulumns 3dd el ngrams
+
+el count vectorizer bystkhdm hot encoding 
+
+(x,y) x 3dd el gomal y 3dd el n grams 
